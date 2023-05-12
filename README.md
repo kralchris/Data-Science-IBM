@@ -19,7 +19,7 @@
 
 <h2 id="project-overview">Project Overview</h2>
 
-<p>The goal of this project is to predict customer churn in a telecommunications company. Customer churn refers to the phenomenon where customers leave a company's services or products. By identifying the factors that contribute to churn and building a predictive model, the company can take proactive measures to retain customers.</p>
+<p>The goal of this project is to...</p>
 
 <p>To achieve this, I have followed a structured approach that involves the following steps:</p>
 
@@ -49,7 +49,7 @@
 
 <p>Clone the project repository to your local machine using the following command:</p>
 
-<pre><code>git clone https://github.com/your-username/your-repository.git
+<pre><code>git clone https://github.com/kralchris/Data-Science-IBM.git
 </code></pre>
 
 <h2 id="results">Results</h2>
